@@ -35,7 +35,7 @@ public class RegisterPage {
         driver.findElement(firstName).sendKeys("Lucas");
         driver.findElement(lastName).sendKeys("Calvimonte");
         driver.findElement(phone).sendKeys("123456");
-        driver.findElement(userName).sendKeys("kikaso");
+        driver.findElement(userName).sendKeys("el kikaso del pueblo");
         driver.findElement(address).sendKeys("Sol de Mayo 427");
         driver.findElement(city).sendKeys("Cordoba");
         driver.findElement(postalCode).sendKeys("5011");
