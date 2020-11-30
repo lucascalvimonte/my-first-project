@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-29T19:29:35 ART" name="TestSuite" finished-at="2020-11-29T19:29:47 ART" duration-ms="11799">
+  <suite started-at="2020-11-29T20:08:19 ART" name="TestSuite" finished-at="2020-11-29T20:08:30 ART" duration-ms="11540">
     <groups>
     </groups>
-    <test started-at="2020-11-29T19:29:35 ART" name="Ejercicio 3" finished-at="2020-11-29T19:29:47 ART" duration-ms="11799">
+    <test started-at="2020-11-29T20:08:19 ART" name="Ejercicio 3" finished-at="2020-11-29T20:08:30 ART" duration-ms="11540">
       <class name="com.pom.test.TestPrueba">
-        <test-method is-config="true" signature="upTest()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T19:29:35 ART" name="upTest" finished-at="2020-11-29T19:29:43 ART" duration-ms="8005" status="PASS">
+        <test-method is-config="true" signature="upTest()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T20:08:19 ART" name="upTest" finished-at="2020-11-29T20:08:26 ART" duration-ms="7607" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- upTest -->
-        <test-method signature="primeraPrueba()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T19:29:43 ART" name="primeraPrueba" finished-at="2020-11-29T19:29:47 ART" duration-ms="3767" status="PASS">
+        <test-method signature="primeraPrueba()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T20:08:26 ART" name="primeraPrueba" finished-at="2020-11-29T20:08:30 ART" duration-ms="3913" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- primeraPrueba -->
-        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T19:29:47 ART" name="closeTest" finished-at="2020-11-29T19:29:47 ART" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:com.pom.test.TestPrueba@16aa0a0a]" started-at="2020-11-29T20:08:30 ART" name="closeTest" finished-at="2020-11-29T20:08:30 ART" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeTest -->
