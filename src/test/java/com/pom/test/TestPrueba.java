@@ -69,7 +69,7 @@ public class TestPrueba {
 
     @AfterTest
     public void closeTest(){
-        //driver.quit();
+        driver.quit();
     }
 
 }
